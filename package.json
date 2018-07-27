@@ -1,0 +1,27 @@
+{
+  "name": "pem",
+  "version": "1.0.0",
+  "description": "Elasticsearch Mapping for Prozorro tenders",
+  "main": "prozorro_mapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amice13/pem.git"
+  },
+  "keywords": [
+    "prozorro",
+    "tenders",
+    "elasticsearch"
+  ],
+  "author": "Zakharov Kyrylo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amice13/pem/issues"
+  },
+  "homepage": "https://github.com/Amice13/pem#readme",
+  "dependencies": {
+    "elasticsearch": "^15.1.1"
+  }
+}
