@@ -586,7 +586,6 @@ var tenderMapping = {
           'analyzer': 'ukrainian'
         },
         'tenderID': { 'type': 'keyword' },
-        'tenderID': { 'type': 'keyword' },
         'procuringEntity': {
           'type' : 'object',
           'properties': organizationProperties
